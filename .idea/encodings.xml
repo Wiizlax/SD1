@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Juin 2017 après-midi/src/Deque.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Juin 2017 après-midi/src/TestDequeImpl.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Juin 2017 après-midi/src/TestListeCaracteres.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine1- Pile et Vecteur/src/Parenthesage.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine1- Pile et Vecteur/src/TestCabinesDEssayage.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine1- Pile et Vecteur/src/TestVecteurDeCaracteresImpl.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine1- Pile et Vecteur/src/VecteurDeCaracteresImpl.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine10- Parcours d'arbres/src/ArbreDEntiers.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine12- File de priorité Amélioration/src/SessionDeVente.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine12- File de priorité/src/SessionDeVente.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine2- Ordre de complexité et File/src/JeuDeTestsFile.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine2- Ordre de complexité et File/src/TestFileImplViaTable.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine4- Liste simple/src/GestionDesSeries.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine4- Liste simple/src/SerieEtudiants.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine4- Liste simple/src/TestListeCaracteres.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine5- liste récursive et collections/src/JeuGuerrier.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine5- liste récursive et collections/src/TestEtape1UnshuffleSort.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine5- liste récursive et collections/src/UnshuffleSort.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine6- Ensemble/src/Ensemble.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine6- Ensemble/src/Login.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine6- Ensemble/src/LoginInfo.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine6- Ensemble/src/TestConnexion.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Semaine6- Ensemble/src/TestEnsembleTableBooleens.java" charset="windows-1252" />
+  </component>
+</project>

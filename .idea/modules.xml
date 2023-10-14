@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Juin 2017 après-midi/Juin 2017 après-midi.iml" filepath="$PROJECT_DIR$/Juin 2017 après-midi/Juin 2017 après-midi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine1- Pile et Vecteur/Semaine1- Pile et Vecteur.iml" filepath="$PROJECT_DIR$/Semaine1- Pile et Vecteur/Semaine1- Pile et Vecteur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine10- Parcours d'arbres/Semaine10- Parcours d'arbres.iml" filepath="$PROJECT_DIR$/Semaine10- Parcours d'arbres/Semaine10- Parcours d'arbres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine11- Ex récapitulatifs/Semaine11- Ex récapitulatifs.iml" filepath="$PROJECT_DIR$/Semaine11- Ex récapitulatifs/Semaine11- Ex récapitulatifs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine12- File de priorité/Semaine12- File de priorité.iml" filepath="$PROJECT_DIR$/Semaine12- File de priorité/Semaine12- File de priorité.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine12- File de priorité Amélioration/Semaine12- File de priorité Amélioration.iml" filepath="$PROJECT_DIR$/Semaine12- File de priorité Amélioration/Semaine12- File de priorité Amélioration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine2- Ordre de complexité et File/Semaine2- Ordre de complexité et File.iml" filepath="$PROJECT_DIR$/Semaine2- Ordre de complexité et File/Semaine2- Ordre de complexité et File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine3- Pile et File via pointeurs/Semaine3- Pile et File via pointeurs.iml" filepath="$PROJECT_DIR$/Semaine3- Pile et File via pointeurs/Semaine3- Pile et File via pointeurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine4- Liste simple/Semaine4- Liste simple.iml" filepath="$PROJECT_DIR$/Semaine4- Liste simple/Semaine4- Liste simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine5- liste récursive et collections/Semaine5- liste récursive et collections.iml" filepath="$PROJECT_DIR$/Semaine5- liste récursive et collections/Semaine5- liste récursive et collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine6- Ensemble/Semaine6- Ensemble.iml" filepath="$PROJECT_DIR$/Semaine6- Ensemble/Semaine6- Ensemble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine7- Map/Semaine7- Map.iml" filepath="$PROJECT_DIR$/Semaine7- Map/Semaine7- Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine8- Liste SD/Semaine8- Liste SD.iml" filepath="$PROJECT_DIR$/Semaine8- Liste SD/Semaine8- Liste SD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine9- Arbres/Semaine9- Arbres.iml" filepath="$PROJECT_DIR$/Semaine9- Arbres/Semaine9- Arbres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructureDeDonnees.iml" filepath="$PROJECT_DIR$/StructureDeDonnees.iml" />
+    </modules>
+  </component>
+</project>
